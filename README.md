@@ -41,6 +41,9 @@ I’m an undergraduate in Software Engineering with a passion for creating innov
 🎓 **Informatics Institute of Technology (IIT)**  
 _Bachelor of Engineering (Hons) in Software Engineering_ (2023 - Present)
 
+🎓 **University of Westminster**  
+_BEng (Hons) Software Engineering_ | Second-Year Undergraduate  
+
 📘 **First Year Modules Completed**:  
 - Trends in Computer Science  
 - Software Development I & II  
