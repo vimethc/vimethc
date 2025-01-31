@@ -96,5 +96,34 @@ _BEng (Hons) Software Engineering_ | Second-Year Undergraduate
 
 ---
 
+<style>
+  .connect-icons a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  .connect-icons a:last-child {
+    margin-right: 0;
+  }
+</style>
+
+<p align="center" class="connect-icons">
+  <a href="mailto:vimethc@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" title="Email Me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chamindu-vimeth-01760a2b3/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="Connect on LinkedIn"/>
+  </a>
+  <a href="https://www.tiktok.com/@chamiduvimeth?_t=ZS-8tWNU2nwbUv&_r=1" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="TikTok" title="Follow on TikTok"/>
+  </a>
+  <a href="https://github.com/your-profile" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="Check out my GitHub"/>
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" title="Follow me on Twitter"/>
+  </a>
+</p>
+
+
 ### 💡 Fun Fact  
 > I enjoy solving challenges and bringing creative ideas to life through code and entrepreneurship! 🚀
