@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Chamii! 👋</h1>
+<h1 align="center">Hi there, I'm Chamindu! 👋</h1>
 <p align="center">🖥️ <b>Software Engineering Undergraduate | Aspiring Entrepreneur | Tech Enthusiast</b> 🖥️</p>
 
 ---
@@ -9,22 +9,31 @@ I’m an undergraduate in Software Engineering with a passion for creating innov
 ---
 
 ### 🛠️ Technologies & Skills
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)  
 
-- **Frameworks & Libraries**:  
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
+#### 🌐 Languages
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SCSS" title="SCSS"/>
+</p>
 
-- **Databases**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+#### 🧰 Frameworks & Libraries
+<p>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot"/>
+</p>
 
-- **Development**:  
-  Front-end & Back-end Development, RESTful APIs, Augmented Reality (AR)
+#### 💾 Databases
+<p>
+  <img src="https://img.icons8.com/ios-filled/50/4479A1/mysql-logo.png" alt="MySQL" title="MySQL"/>
+</p>
+
+#### 🔧 Development
+- Front-end & Back-end Development  
+- RESTful APIs  
+- Augmented Reality (AR)
 
 ---
 
@@ -65,9 +74,9 @@ _Bachelor of Engineering (Hons) in Software Engineering_ (2023 - Present)
 
 ### 📬 Connect with Me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.tiktok.com/@your-tiktok"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="vimethc@gmail,com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/chamindu-vimeth-01760a2b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.tiktok.com/@chamiduvimeth?_t=ZS-8tWNU2nwbUv&_r=1><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
 ---
