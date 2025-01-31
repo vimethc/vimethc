@@ -74,9 +74,21 @@ _Bachelor of Engineering (Hons) in Software Engineering_ (2023 - Present)
 
 ### 📬 Connect with Me
 <p align="center">
-  <a href="vimethc@gmail,com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/chamindu-vimeth-01760a2b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.tiktok.com/@chamiduvimeth?_t=ZS-8tWNU2nwbUv&_r=1><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="vimethc@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" title="Email Me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chamindu-vimeth-01760a2b3/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="Connect on LinkedIn"/>
+  </a>
+  <a href="https://www.tiktok.com/@chamiduvimeth?_t=ZS-8tWNU2nwbUv&_r=1" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="TikTok" title="Follow on TikTok"/>
+  </a>
+  <a href="https://github.com/your-profile" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="Check out my GitHub"/>
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" title="Follow me on Twitter"/>
+  </a>
 </p>
 
 ---
