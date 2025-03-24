@@ -67,14 +67,6 @@ _BEng (Hons) Software Engineering_ | Second-Year Undergraduate
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chamii&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamii&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
-
----
-
 ### 📬 Connect with Me
 <p align="center">
   <a href="vimethc@gmail.com" target="_blank">
