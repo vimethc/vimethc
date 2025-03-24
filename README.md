@@ -48,23 +48,8 @@ _BEng (Hons) Software Engineering_ | Second-Year Undergraduate
 - Trends in Computer Science  
 - Software Development I & II  
 - Web Design and Development  
-- Mathematics for Computing  
-
----
-
-### 🌟 Featured Projects
-1. **Virtual Sri Lanka Tourism (AR-based Mobile App)**  
-   🌍 Enhances tourist experiences with AR models and local service recommendations.  
-   [View Project](#)  
-
-2. **POS System**  
-   🛒 A custom-built POS system for a grocery shop, using Spring Boot and Angular for real-time inventory tracking and analytics.  
-   [View Project](#)  
-
-3. **Inky, Pinky, Polly**  
-   🎮 A Python-based interactive game for entertainment and learning.  
-   [View Project](#)  
-
+- Mathematics for Computing
+  
 ---
 
 ### 📬 Connect with Me
