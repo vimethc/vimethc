@@ -39,7 +39,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: vimethc@gmail.com 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/chamindu-vimeth-01760a2b3/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chamindu-vimeth-01760a2b3/) 
 
 ---
 
