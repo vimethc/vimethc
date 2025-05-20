@@ -38,8 +38,8 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: chamindu@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📧 Email: vimethc@gmail.com 
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/chamindu-vimeth-01760a2b3/))  
 
 ---
 
